@@ -27,7 +27,7 @@ function Home2() {
             </span> */}
               {/* &nbsp; */}
 
-              <ImPointRight /> I am an upcoming <b className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Intern).</b>
+              <ImPointRight /> I am an upcoming <b className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Internship).</b>
               <br />
               <br />
               <ImPointRight /> I am currently pursuing a Bachelor of Technology in Computer Science from Guru Gobind Singh Indraprastha University

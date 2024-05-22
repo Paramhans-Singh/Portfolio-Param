@@ -16,7 +16,7 @@ function AboutCard() {
             from <span className="purple"> Delhi, India.</span>
             <br />
             <br />
-            I am an upcoming <span className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Intern).</span>
+            I am an upcoming <span className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Internship).</span>
             <br />
             <br />
             Currently pursuing a Bachelor of Technology in Computer Science from Guru Gobind Singh Indraprastha University
@@ -39,7 +39,7 @@ function AboutCard() {
                 <ImPointRight /> Secured rank in Top 20 in open-source events like GSSOC and SSOC
               </li>
               <li className="about-activity">
-                <ImPointRight /> <span className="purple">Solving over 300+ DSA problems </span>on LeetCode and GFG with LeetCode Rating of 1704 and Codechef
+                <ImPointRight /> <span className="purple">Solving over 300+ DSA problems </span>on LeetCode and GFG with LeetCode Rating of 1734 and Codechef
                 Rating of 1699 (3 Star).
               </li>
               <li className="about-activity">
@@ -47,16 +47,16 @@ function AboutCard() {
               </li>
             </ul>
             <br />
-            Apart from coding, some other activities that I love to do!
-            <ul>
+           My Competitive Coding Profiles:
+            <ul className="coding-profile"> 
               <li className="about-activity">
-                <ImPointRight /> Playing Games
+                <ImPointRight /> <a href = "https://leetcode.com/u/paramsingh03/"><span className="purple">LeetCode:</span> 1734 Rating</a>
               </li>
               <li className="about-activity">
-                <ImPointRight /> Writing Tech Blogs
+                <ImPointRight /> <a href="https://www.codechef.com/users/paramhans728"><span className="purple">CodeChef:</span> 1699 Rating ( 3 Star Coder )</a>
               </li>
               <li className="about-activity">
-                <ImPointRight /> Travelling
+                <ImPointRight /> <a href="https://www.hackerrank.com/profile/paramsingh1303"><span className="purple">HackerRank:</span> 5 Star Coder</a>
               </li>
             </ul>
           </p>

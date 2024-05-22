@@ -588,6 +588,12 @@ html {
     color: white !important;
     background-color: transparent !important;
   }
+
+  .coding-profile .about-activity a{
+    text-decoration: none !important;
+    color: white !important;
+
+  }
   
   .about-activity {
     list-style: none !important;
