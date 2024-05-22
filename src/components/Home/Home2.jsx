@@ -43,7 +43,7 @@ function Home2() {
               <b className="purple">Research and Development Intern at DRDO, </b>
               <b className="purple">
                 Software Development Intern at SqaureBoat, </b>and
-              <b className="purple"> Software Developer at Turing </b>have equipped me with a solid foundation to tackle challenges and
+              <b className="purple"> Turing </b>have equipped me with a solid foundation to tackle challenges and
               deliver impactful results.
               <br />
               <br />
