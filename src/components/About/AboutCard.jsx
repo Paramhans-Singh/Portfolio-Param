@@ -19,7 +19,7 @@ function AboutCard() {
             I am an upcoming <span className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Internship).</span>
             <br />
             <br />
-            Currently pursuing a Bachelor of Technology in Computer Science from Guru Gobind Singh Indraprastha University
+            Currently pursuing a Bachelors of Technology in Computer Science with sepecialization in Artificial Intelligence & Machine Learning from Guru Gobind Singh Indraprastha University
             with a <span className="purple">stellar CGPA of 9.41,</span> I have honed my skills in Full Stack development, AI & ML, CyberSecurity, and Problem Solving.
             <br />
             <br />
@@ -33,10 +33,14 @@ function AboutCard() {
                 <ImPointRight />  Github Global Campus Expert & Microsoft Learn Student Ambassador
               </li>
               <li className="about-activity">
-                <ImPointRight /> Achieved the <span className="purple">19th rank in University Rankings with 9.41 CGPA</span>
+                <ImPointRight /> Got <span className="purple"> Letter of Recommendation from Government of India (DRDO) and 4 other from University </span>for my Research Project Work.
+                
               </li>
               <li className="about-activity">
-                <ImPointRight /> Secured rank in Top 20 in open-source events like GSSOC and SSOC
+                <ImPointRight /> Secured <span className="purple">rank in Top 20</span> in open-source events like GSSOC, SSOC and Hacktoberfest.
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> Achieved the <span className="purple">19th rank in University Rankings with 9.41 CGPA</span>
               </li>
               <li className="about-activity">
                 <ImPointRight /> <span className="purple">Solving over 300+ DSA problems </span>on LeetCode and GFG with LeetCode Rating of 1734 and Codechef

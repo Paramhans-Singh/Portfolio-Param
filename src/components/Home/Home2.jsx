@@ -30,7 +30,7 @@ function Home2() {
               <ImPointRight /> I am an upcoming <b className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Internship).</b>
               <br />
               <br />
-              <ImPointRight /> I am currently pursuing a Bachelor of Technology in Computer Science from Guru Gobind Singh Indraprastha University
+              <ImPointRight /> I am currently pursuing a Bachelors of Technology in Computer Science with sepecialization in Artificial Intelligence & Machine Learning from Guru Gobind Singh Indraprastha University
               <b className="purple"> with a stellar CGPA of 9.41.</b>
               <br />
               <br />  
