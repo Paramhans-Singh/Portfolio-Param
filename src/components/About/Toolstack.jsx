@@ -7,6 +7,10 @@ import {
   SiVercel,
   SiMacos,
 } from "react-icons/si";
+import { SiTensorflow, SiScikitlearn, SiNumpy, SiPandas, SiUbuntu, SiLinux, SiFedora } from "react-icons/si";
+import { FaBrain } from "react-icons/fa";
+import { DiUbuntu } from "react-icons/di";
+
 
 function Toolstack() {
   return (
@@ -26,6 +30,16 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiUbuntu />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLinux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFedora />
+      </Col>
+    
     </Row>
   );
 }
