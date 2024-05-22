@@ -2,6 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
+import { ImPointRight } from "react-icons/im";
+
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -19,36 +21,32 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I developed a deep passion for coding, and through my journey, I've gained valuable insights.
-              <br />
-              <br />I am proficient in languages such as
-              <i>
-                <b className="purple"> React JS, Java, and Node JS. </b>
-              </i>
-              <br />
-              <br />
-              My focus revolves around crafting innovative &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Solutions </b> and
-                exploring realms associated with{" "}
-                <b className="purple">
-                  Artificial Intelligence and Machine Learning.
-                </b>
-              </i>
+              {/* Hi Everyone  */}
+              {/* <span className="wave" role="img" aria-labelledby="wave">
+                  👋🏻
+            </span> */}
+              {/* &nbsp; */}
+
+              <ImPointRight /> I am an upcoming <b className="purple">Research & Development Intern at Mitacs GRI (Onsite Canada Intern).</b>
               <br />
               <br />
-              Whenever feasible, I channel my enthusiasm into building applications
-              with <b className="purple">AI</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Cutting-edge Programming Languages and Frameworks
-                </b>
-              </i>
-              &nbsp; such as
-              <i>
-                <b className="purple"> React.js and Typescript</b>
-              </i>
+              <ImPointRight /> I am currently pursuing a Bachelor of Technology in Computer Science from Guru Gobind Singh Indraprastha University
+              <b className="purple"> with a stellar CGPA of 9.41.</b>
+              <br />
+              <br />  
+              <ImPointRight /> I have honed my skills in
+              <b className="purple"> Full Stack development, AI & ML, CyberSecurity, and Problem Solving. </b>
+              <br />
+              <br />
+
+              <ImPointRight /> My professional experiences includes &nbsp;
+              <b className="purple">Research and Development Intern at DRDO, </b>
+              <b className="purple">
+                Software Development Intern at SqaureBoat, </b>and
+              <b className="purple"> Software Developer at Turing </b>have equipped me with a solid foundation to tackle challenges and
+              deliver impactful results.
+              <br />
+              <br />
             </p>
 
           </Col>

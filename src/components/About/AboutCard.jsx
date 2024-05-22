@@ -8,7 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone 👋, I am <span className="purple">Paramhans Singh </span>
+            Hi Everyone
+            <span className="wave" role="img" aria-labelledby="wave">
+              👋🏻
+            </span>
+            &nbsp; I am <span className="purple">Paramhans Singh </span>
             from <span className="purple"> Delhi, India.</span>
             <br />
             <br />
@@ -23,7 +27,7 @@ function AboutCard() {
             <ul>
               <li className="about-activity">
                 <ImPointRight /> Being selected as an Onsite Canada Research Intern at Mitacs Globallink, standing out <span className="purple">among 70 students
-                from India out of 75000+ applicants.</span>
+                  from India out of 75000+ applicants.</span>
               </li>
               <li className="about-activity">
                 <ImPointRight />  Github Global Campus Expert & Microsoft Learn Student Ambassador
