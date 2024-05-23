@@ -25,21 +25,31 @@ function Experience() {
           Here are my all interships I have done.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={mitacs}
               isBlog={false}
               title="Mitacs GRI - Onsite Canada Internship"
-              post = "Research and Devlopment Intern"
+              post="Research and Devlopment Intern"
               date="Upcoming"
-              location= "Toronto, Canada"
-              description={<>
-              <ul>
-                <li>Pioneering cutting-edge solutions in dynamic cross-device interactions and collaborative applications, 
-                with a strong emphasis on bolstering cybersecurity measures.</li>
-                <li>Innovating secure gesture-based techniques for seamless connecting and disconnecting of devices, as well as enabling the 
-                fluid movement of interactive objects across different platforms.</li></ul></>}
+              location="Toronto, Canada"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Pioneering cutting-edge solutions in dynamic cross-device
+                      interactions and collaborative applications, with a strong
+                      emphasis on bolstering cybersecurity measures.
+                    </li>
+                    <li>
+                      Innovating secure gesture-based techniques for seamless
+                      connecting and disconnecting of devices, as well as
+                      enabling the fluid movement of interactive objects across
+                      different platforms.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink=""
             />
           </Col>
@@ -49,85 +59,85 @@ function Experience() {
               imgPath={germany}
               isBlog={false}
               title="Leuphana University - Germany Internship"
-              post = "Research Intern"
+              post="Research Intern"
               date="Upcoming"
-              location= "Remote, Germany"
-              description={<>
-              <ul>
-                <li>Spearheaded a groundbreaking research project within the NFDI4Datascience framework, 
-                utilizing known fraud cases for innovative few-shot learning applications.</li>
-                <li>Pioneered a prompt-based setup leveraging state-of-the-art AI technologies, including Large Language Models 
-                  and advanced Prompt Engineering techniques, to uncover and dismantle illicit networks in scientific publishing.</li>
-                </ul>
-                </>}
+              location="Remote, Germany"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Spearheaded a groundbreaking research project within the
+                      NFDI4Datascience framework, utilizing known fraud cases
+                      for innovative few-shot learning applications.
+                    </li>
+                    <li>
+                      Pioneered a prompt-based setup leveraging state-of-the-art
+                      AI technologies, including Large Language Models and
+                      advanced Prompt Engineering techniques, to uncover and
+                      dismantle illicit networks in scientific publishing.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink=""
             />
           </Col>
-
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ryerson}
               isBlog={false}
               title="Ryerson University - Onsite Canada Internship"
-              post = "Research and Devlopment Intern"
+              post="Research and Devlopment Intern"
               date="Upcoming"
-              location= "Toronto, Canada"
-              description={<>
-              <ul>
-              <li>Researching dynamic cross-device interactions and collaborative applications, focusing on
-                 Cybersecurity measures and incorporating MERN stack and Machine Learning technologies.</li>
-                <li>Developing technologies for secure connecting and disconnecting of multiple devices with gestures, moving 
-                  interactive objects across devices.</li>
+              location="Toronto, Canada"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Researching dynamic cross-device interactions and
+                      collaborative applications, focusing on Cybersecurity
+                      measures and incorporating MERN stack and Machine Learning
+                      technologies.
+                    </li>
+                    <li>
+                      Developing technologies for secure connecting and
+                      disconnecting of multiple devices with gestures, moving
+                      interactive objects across devices.
+                    </li>
                   </ul>
-                </>}
-             cerLink=""
+                </>
+              }
+              cerLink=""
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={drdo}
+              imgPath={ryerson}
               isBlog={false}
-              title="DRDO - CFEES"
-              post = "Research and Devlopment Intern"
-              date="May 23 - Aug 23"
-              location= "New Delhi,India"
+              title="Microsoft"
+              post=" Learn Student Ambassador"
+              date="Feb 2023 - Jan 2024"
+              location="New Delhi, India"
               description={
                 <>
-                <ul>
-                  <li> Successfully spearheaded the implementation of Cuckoo sandbox technology for malware analysis, leading to a 
-                    significant 60% reduction in successful cyberattacks and enhancing the overall cybersecurity posture of the 
-                    organization.</li>
-             <li>Analyzed and effectively mitigated malicious files, contributing to a 5% decrease in malware infections and ensuring a more
-              secure computing environment for users.</li>
-              <li>Received two Letters of Recommendation from prestigious institutions such as the University and the Government of India DRDO for
-                 my outstanding research work, highlighting my expertise and dedication in the field of cybersecurity and technology.</li>
-              </ul>
-              </>}
-              cerLink="https://drive.google.com/file/d/1GgX5QDUjyI_tKmxbj15xD44EBjXpXvNw/view?usp=sharing"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={squareboat}
-              isBlog={false}
-              title="SquareBoat"
-              post="Software Developer"
-              date="Apr 23 - June 23"
-              location="Delhi, India"
-              description={
-                <>
-                <ul>
-                  <li>Spearheaded the implementation of Cuckoo sandbox technology for malware analysis, resulting in a 60% reduction in
-              successful cyberattacks and ensuring a secure web environment</li>
-              <li>Got 2 Letter of Recommendation from the University and
-              DRDO for the research work.</li>
-              </ul>
-              </>}
-              cerLink="https://drive.google.com/file/d/1D-OoGcxHfMq1VrVs6HIH-b8qMCsGe0Gv/view?usp=sharing"
-              
+                  <ul>
+                    <li>
+                      Establish a vibrant and inclusive community of students
+                      passionate about technology, organizing engaging events,
+                      and workshops to foster collaboration and mutual support
+                      among members.
+                    </li>
+                    <li>
+                      Work closely with educators and academic institutions to
+                      develop and implement initiatives that integrate Microsoft
+                      technologies seamlessly into educational curricula.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink=""
             />
           </Col>
 
@@ -138,20 +148,208 @@ function Experience() {
               title="Turing"
               post="Software Developer"
               date="Dec 22 - Jan 23"
-              location="Gurgaon, India"
+              location="Remote, USA"
               description={
                 <>
-                <ul>
-                  <li>Spearheaded the implementation of Cuckoo sandbox technology for malware analysis, resulting in a 60% reduction in
-              successful cyberattacks and ensuring a secure web environment</li>
-              <li>Got 2 Letter of Recommendation from the University and
-              DRDO for the research work.</li>
-              </ul>
-              </>}
+                  <ul>
+                    <li>
+                      Utilized React JS to design both client-side and
+                      server-side architecture, resulting in a notable 25%
+                      increase in sales and revenue for the project.
+                    </li>
+                    <li>
+                      Successfully integrated back-end APIs to showcase data
+                      through custom components and Redux, enhancing the user
+                      experience and functionality of the application.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink="https://drive.google.com/file/d/1r_cZ4EsUQPkH73CGi-X_6vWiyU1VhAp7/view?usp=sharing"
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ryerson}
+              isBlog={false}
+              title="University of Oulu - Finland Internship"
+              post="Research Intern"
+              date="Jan 2024 - Apr 2024"
+              location="Remote, Finland"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Developing an advanced Car Tracing System for Theft
+                      Detection through the utilization of computer vision and
+                      deep learning technologies.
+                    </li>
+                    <li>
+                      Deployed cutting-edge computer vision algorithms such as
+                      Convolutional Neural Networks (CNNs) for accurate vehicle
+                      detection, tracking, and recognition.
+                    </li>
+                    <li>
+                      Emphasized swift real-time processing of camera footage
+                      for prompt identification and monitoring of stolen
+                      vehicles.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={squareboat}
+              isBlog={false}
+              title="SquareBoat"
+              post="Software Developer"
+              date="Apr 23 - June 23"
+              location="Gurugram, Haryana"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Collaborated with the development team to enhance various
+                      aspects of the project, resulting in a notable 25%
+                      decrease in the number of bugs and ensuring a more stable
+                      and reliable software product.
+                    </li>
+                    <li>
+                      Took charge of leading a team of 5 developers in the
+                      creation of a full-stack web application, leading to a
+                      significant 40% increase in user engagement and
+                      satisfaction with the platform.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink="https://drive.google.com/file/d/1D-OoGcxHfMq1VrVs6HIH-b8qMCsGe0Gv/view?usp=sharing"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ryerson}
+              isBlog={false}
+              title="Google Developer Student Club"
+              post="Open Source Mentor"
+              date="Aug 2023 - Present"
+              location="New Delhi, India"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Guided and mentored 1000+ students in contributing to
+                      open-source projects within the Google Developers Students
+                      Club (GDSC) community.
+                    </li>
+                    <li>
+                      Organized over 15+ events and hackathons to enhance the
+                      open-source community in college.
+                    </li>
+                    <li>
+                      Provided support and guidance to budding developers in
+                      navigating the open-source ecosystem.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={drdo}
+              isBlog={false}
+              title="DRDO - CFEES"
+              post="Research and Devlopment Intern"
+              date="May 23 - Aug 23"
+              location="New Delhi,India"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Successfully spearheaded the implementation of Cuckoo
+                      sandbox technology for malware analysis, leading to a
+                      significant 60% reduction in successful cyberattacks and
+                      enhancing the overall cybersecurity posture of the
+                      organization.
+                    </li>
+
+                    <li>
+                      Received Letter of Recommendation from Government of India
+                      (DRDO) and 2 from the University for my outstanding
+                      research work.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink="https://drive.google.com/file/d/1GgX5QDUjyI_tKmxbj15xD44EBjXpXvNw/view?usp=sharing"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ryerson}
+              isBlog={false}
+              title="International Organization of Software Developers"
+              post="Web Development Head"
+              date="Apr 2023 - Apr 2024"
+              location="New Delhi, India"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Led a team of web developers within the IOSD (Society of
+                      University), overseeing the planning and execution of web
+                      development projects.
+                    </li>
+                    <li>
+                      Managed project timelines, resource allocation, and task
+                      delegation to ensure timely delivery of high-quality web
+                      solutions.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gssoc}
+              isBlog={false}
+              title="GirlScript Summer of Code"
+              post="Mentor & Open Source Developer"
+              date="May 23 - Aug 23"
+              location="Gurgaon, India"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Providing personalized guidance and support to mentees in
+                      GSSOC, focusing on their open-source project development
+                      journey.
+                    </li>
+
+                    <li>
+                      Achieved a commendable ranking in the Top 20 of GSSOC,
+                      showcasing my proficiency and dedication in open-source
+                      development and contributing positively to the community.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink="https://drive.google.com/file/d/172IjK0VNpkQlqrRwx3OvR7cAXFP3Zn8K/view?usp=sharing"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -163,17 +361,25 @@ function Experience() {
               location="New Delhi, India"
               description={
                 <>
-                <ul>
-                  <li>Spearheaded the implementation of Cuckoo sandbox technology for malware analysis, resulting in a 60% reduction in
-              successful cyberattacks and ensuring a secure web environment</li>
-              <li>Got 2 Letter of Recommendation from the University and
-              DRDO for the research work.</li>
-              </ul>
-              </>}
+                  <ul>
+                    <li>
+                      Serving as a Problem Setter at AlgoExpert, responsible for
+                      curating intellectually stimulating questions,
+                      contributing to 80% of the platform's question bank
+                      expansion.
+                    </li>
+                    <li>
+                      Crafted over 300 new questions spanning various difficulty
+                      levels and topics, representing a 50% increase in
+                      available content for contests and courses.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink="https://drive.google.com/file/d/1XpnqR6_VIYkkN952NMF8KCIe7PukZgNr/view?usp=sharing"
             />
           </Col>
-          
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ssoc}
@@ -184,42 +390,23 @@ function Experience() {
               location="Noida, India"
               description={
                 <>
-                <ul>
-                  <li>- Achieved a notable ranking in the Top 20 of SSOC, demonstrating my proficiency and dedication in the field of 
-                    open-source development and web development.</li>
-                    <li>Received exciting swags and prizes from the esteemed Team SSOC as a token of appreciation for my hard work 
-                      and commitment towards enhancing my skills in open-source and web development.</li>
-                    <li>Enhanced my expertise in open-source development and web development through active participation in SSOC, 
-                      gaining valuable experience in collaborative coding, project management, and the latest technologies and tools 
-                      in the industry.</li>
-              </ul>
-              </>}
+                  <ul>
+                    <li>
+                      Achieved a notable ranking in the Top 20 of SSOC,
+                      demonstrating my proficiency and dedication in the field
+                      of open-source development and web development.
+                    </li>
+                    <li>
+                      Received exciting swags and prizes from the esteemed Team
+                      SSOC as a token of appreciation for my hard work and
+                      commitment towards enhancing my skills in open-source and
+                      web development.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink="https://drive.google.com/file/d/1aIZFDXXd9zR231jh0clZyfnCWyh4zk-f/view?usp=sharing"
             />
-          </Col>
-          
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={gssoc}
-              isBlog={false}
-              title="GirlScript Summer of Code"
-              post="Open Source Developer"
-              date="May 23 - Aug 23"
-              location="Gurgaon, India"
-              description={
-                <>
-                <ul>
-                  <li>Achieved a commendable ranking in the Top 20 of GSSOC, showcasing my proficiency and dedication in open-source 
-                    development and contributing positively to the community.</li>
-                  <li>Received exciting swags and prizes from the esteemed Team GSSOC as a token of appreciation for my hard work 
-                    and commitment towards open-source projects.</li>
-                  <li>Enhanced my skills in open-source development by actively participating in GSSOC, gaining practical experience 
-                    and knowledge in collaborative coding, project management, and community engagement.</li>
-              </ul>
-              </>}
-              cerLink="https://drive.google.com/file/d/172IjK0VNpkQlqrRwx3OvR7cAXFP3Zn8K/view?usp=sharing"
-            />
-
           </Col>
 
           <Col md={4} className="project-card">
@@ -227,25 +414,86 @@ function Experience() {
               imgPath={codingninja}
               isBlog={false}
               title="Coding Ninja"
-              post="Teaching Assistant"
-              date="Apr 23 - Sep 23"
+              post="SME (Strategy Mentor) & Teaching Assistant"
+              date="Sep 23 - Dec 23"
               location="Gurgaon, India"
-              description= {
+              description={
                 <>
-                <ul>
-                  <li>Developed lesson plans and course modules to increase student engagement and understanding of complex topics 
-                    in the JAVA course on Data Structures and Algorithms. </li>
-              <li>Collaborated with the course instructor to continuously evaluate and improve the curriculum based on student 
-                feedback and performance data.</li>
-                <li>Solved 500+ questions from more than 100+ students enrolled in the online class.</li>
-              </ul>
-              </>}
+                  <ul>
+                    <li>
+                      Developed lesson plans and course modules to increase
+                      student engagement and understanding of complex topics in
+                      the JAVA course on Data Structures and Algorithms.{" "}
+                    </li>
+                    <li>
+                      Collaborated with the course instructor to continuously
+                      evaluate and improve the curriculum based on student
+                      feedback and performance data.
+                    </li>
+                  </ul>
+                </>
+              }
               cerLink="https://drive.google.com/file/d/12_eUyZFj7CjjDFBnNRtwSlkGeFM9IWZn/view?usp=sharing"
             />
-
           </Col>
-        
-          </Row>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={codingninja}
+              isBlog={false}
+              title="TwiLearn"
+              post="Full Stack Developer"
+              date="Mar 22 - July 22"
+              location="New Delhi, India"
+              description={
+                <>
+                  <ul>
+                    <li>
+                      Worked on backend APIs, contributing to 70% of the
+                      project's functionality and seamless data exchange.
+                    </li>
+                    <li>
+                      Contributed to overall design decisions, accounting for
+                      30% of the project's architectural coherence and
+                      efficiency.
+                    </li>
+                    <li>
+                      Implemented robust error handling mechanisms within
+                      backend APIs, ensuring a 95% reduction in system downtime
+                      due to unforeseen errors.
+                    </li>
+                  </ul>
+                </>
+              }
+              cerLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={codingninja}
+              isBlog={false}
+              title="Placement Hub"
+              post="Founder"
+              date="Feb 23 - Oct 23"
+              location="New Delhi, India"
+              description={
+                <>
+                  <ul>
+                    <li>We make careers, not just jobs!</li>
+                    <li>
+                      We are the one-stop solution for Jobs, Internships,
+                      Meetups, and Contests.We are a Community of 2000+ students
+                      teaching and taking sessions on Placement related stuff
+                    </li>
+                    <li>We are India's first 24*7 job update news channel</li>
+                  </ul>
+                </>
+              }
+              cerLink=""
+            />
+          </Col>
+        </Row>
       </Container>
     </Container>
   );
