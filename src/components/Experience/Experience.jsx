@@ -12,6 +12,12 @@ import codingninja from "../../Assets/Experience/codingninja.png";
 import mitacs from "../../Assets/Experience/mitacs.png";
 import ryerson from "../../Assets/Experience/ryerson.png";
 import germany from "../../Assets/Experience/germany.png";
+import finland from "../../Assets/Experience/finland.png";
+import gdsc from "../../Assets/Experience/gdsc.png";
+import iosd from "../../Assets/Experience/iosd.png";
+import twilearn from "../../Assets/Experience/twilearn.png";
+import placement from "../../Assets/Experience/placement.png";
+import microsoft from "../../Assets/Experience/microsoft.png";
 
 function Experience() {
   return (
@@ -50,7 +56,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1KzoWk25AG14FQ7sZlnsl4o58ujhkjWrk/view?usp=sharing"
             />
           </Col>
 
@@ -79,7 +85,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1DCjrMxQIqDxnVA4nv6rzZCn2wdonsHKM/view?usp=sharing"
             />
           </Col>
 
@@ -108,13 +114,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1KzoWk25AG14FQ7sZlnsl4o58ujhkjWrk/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ryerson}
+              imgPath={microsoft}
               isBlog={false}
               title="Microsoft"
               post=" Learn Student Ambassador"
@@ -137,7 +143,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/10t8wYKXMAz9XMOQotVCy98SorGvrG9SP/view?usp=sharing"
             />
           </Col>
 
@@ -165,13 +171,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/1r_cZ4EsUQPkH73CGi-X_6vWiyU1VhAp7/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/1R10wfP4-QKUKUk2IInammR-bBPqqpoM8/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ryerson}
+              imgPath={finland}
               isBlog={false}
               title="University of Oulu - Finland Internship"
               post="Research Intern"
@@ -198,7 +204,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1Rmet-nj6JZc7AG4o4YIlNb6a8En22BBj/view?usp=sharing"
             />
           </Col>
 
@@ -228,13 +234,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/1D-OoGcxHfMq1VrVs6HIH-b8qMCsGe0Gv/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/1DdwgfREXIs5-LwbG0YQW3e_MKn4xtzeb/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ryerson}
+              imgPath={gdsc}
               isBlog={false}
               title="Google Developer Student Club"
               post="Open Source Mentor"
@@ -259,7 +265,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/120kuDTEq0jKYRztLjeZUSQ-gWlN4rt_K/view?usp=sharing"
             />
           </Col>
 
@@ -290,13 +296,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/1GgX5QDUjyI_tKmxbj15xD44EBjXpXvNw/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/1dfKlfjemINdmJ2UFsyrl4q9jcnTyT7jd/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ryerson}
+              imgPath={iosd}
               isBlog={false}
               title="International Organization of Software Developers"
               post="Web Development Head"
@@ -318,7 +324,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/19aK9xxHFpVcvAi-zSmdJ7QAGQE5uLo6h/view?usp=sharing"
             />
           </Col>
 
@@ -347,7 +353,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/172IjK0VNpkQlqrRwx3OvR7cAXFP3Zn8K/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/1casDO3eu5F6yN1lRV4ntSWe0S4kulgeo/view?usp=sharing"
             />
           </Col>
 
@@ -376,7 +382,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/1XpnqR6_VIYkkN952NMF8KCIe7PukZgNr/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/12ZGX4O3GLOKrBej_L3gTgvZwHXXaTvPN/view?usp=sharing"
             />
           </Col>
 
@@ -405,7 +411,7 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/1aIZFDXXd9zR231jh0clZyfnCWyh4zk-f/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/14LVFZMk1ltg3aTcYrXRyTLTxS0JkdJwH/view?usp=sharing"
             />
           </Col>
 
@@ -433,13 +439,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink="https://drive.google.com/file/d/12_eUyZFj7CjjDFBnNRtwSlkGeFM9IWZn/view?usp=sharing"
+              cerLink="https://drive.google.com/file/d/1CBKHgEfl2Z2Qm3P91kZ9ZddT00hNnqGm/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={codingninja}
+              imgPath={twilearn}
               isBlog={false}
               title="TwiLearn"
               post="Full Stack Developer"
@@ -465,13 +471,13 @@ function Experience() {
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1BE4bFTh3JQG_9jBAURFM2WSljHW92mAC/view?usp=sharing"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={codingninja}
+              imgPath={placement}
               isBlog={false}
               title="Placement Hub"
               post="Founder"
@@ -483,14 +489,15 @@ function Experience() {
                     <li>We make careers, not just jobs!</li>
                     <li>
                       We are the one-stop solution for Jobs, Internships,
-                      Meetups, and Contests.We are a Community of 2000+ students
-                      teaching and taking sessions on Placement related stuff
+                      Meetups, and Contests. We are a Community of 2000+
+                      students teaching and taking sessions on Placement related
+                      stuff
                     </li>
                     <li>We are India's first 24*7 job update news channel</li>
                   </ul>
                 </>
               }
-              cerLink=""
+              cerLink="https://drive.google.com/file/d/1n46GNIjtmuDe4EEZQ93kCPDNCVaP4GZV/view?usp=sharing"
             />
           </Col>
         </Row>
