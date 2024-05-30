@@ -3,6 +3,7 @@
 Welcome to my portfolio website! This website is built using React.js and features animations and effects to showcase my projects, skills, and experiences in an engaging and visually appealing way.
 
 ## Portfolio Live Preview 
+https://github.com/Paramhans-Singh/Portfolio/assets/101575816/f985f7dd-438c-4d95-b4b1-045cef9a582f
 
 ## Features
 
