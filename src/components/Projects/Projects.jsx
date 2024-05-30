@@ -38,7 +38,7 @@ function Projects() {
               imgPath={indchat}
               isBlog={false}
               title="IndChat"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Welcome to INDchat, a dynamic and engaging real-time chat website built with the MERN stack (MongoDB, Express.js, React.js, Node.js), Socket.io, Redux Toolkit, and Tailwind CSS. INDchat aims to provide a seamless and interactive chatting experience."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={grubhub}
               isBlog={false}
               title="GrubHub"
-              description="GrubHub a MERN stack food app offers a user-friendly React frontend for seamless browsing and ordering Powered by Express Js and MongoDB it ensures secure transactions efficient order management and a delightful food ordering experience"
+              description="Welcome to Grub Hub, your ultimate online destination for ordering delicious food with ease. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrated with Stripe for secure payments."
               ghLink="https://github.com/Paramhans-Singh/GrubHub"
               demoLink="https://grub-hubs.vercel.app/"
             />
@@ -71,7 +71,18 @@ function Projects() {
               imgPath={impulse}
               isBlog={false}
               title="Impulse"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Impulse is the premier online platform for managing and showcasing college society events. It offers a comprehensive solution for students and organizers to discover, promote, and participate in a wide range of events, from academic seminars to cultural festivals."
+              ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
+              demoLink="https://my-tech-projects.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cuckoo}
+              isBlog={false}
+              title="Cybersecurity | DRDO"
+              description="This project, sponsored by the Defense Research and Development Organization (DRDO), focuses on enhancing cybersecurity measures using Cuckoo Sandbox for malware analysis on an Ubuntu platform. Cuckoo Sandbox is an open-source automated malware analysis system."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -82,7 +93,7 @@ function Projects() {
               imgPath={eatfit}
               isBlog={false}
               title="Eatfit"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Welcome to Eat Fit, your ultimate online destination for ordering fast food with a healthy twist. Built using React Js, Eat Fit aims to provide a seamless and delightful food ordering experience. Whether you're craving burgers, pizzas, or salads, Eat Fit has got you covered!"
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -104,7 +115,7 @@ function Projects() {
               imgPath={geekguru}
               isBlog={false}
               title="GeekGuru"
-              description="GeekGuru, a MERN stack eLearning platform, leverages React for an intuitive user interface. Fueled by Express.js and MongoDB, it delivers a robust learning experience with personalized courses, interactive content, and comprehensive progress tracking."
+              description="Geek Gurus is an e-learning web application designed to provide users with access to a wide range of courses on various topics. Whether you're a beginner looking to learn a new skill or an expert seeking to deepen your knowledge"
               ghLink="https://github.com/Paramhans-Singh/Geek-Gurus"
               demoLink="https://geek-gurus.vercel.app/"
             />
@@ -125,7 +136,7 @@ function Projects() {
               imgPath={placement}
               isBlog={false}
               title="Placement Hub"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Placement Hub is a community platform designed to facilitate job alerts and preparation for aspiring professionals. This platform aims to bring together job seekers, recruiters, and industry experts to share insights, resources, and opportunities."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -136,7 +147,7 @@ function Projects() {
               imgPath={gallery}
               isBlog={false}
               title="Gallery Ellite"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Gallery Elite is a sleek and modern photo gallery website built with ReactJS. It offers a visually stunning platform for showcasing captivating images across various categories. With its intuitive user interface and smooth navigation."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -147,7 +158,7 @@ function Projects() {
               imgPath={snip}
               isBlog={false}
               title="Short Snip"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="Welcome to Short Snip, a sleek and efficient URL shortener built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project aims to provide a simple yet powerful tool to shorten long URLs, making them easier to share and manage."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -158,7 +169,7 @@ function Projects() {
               imgPath={iosd}
               isBlog={false}
               title="IOSD Website"
-              description="The IOSD Website, built on the MERN stack, serves as a centralized hub for a college society, providing students with easy access to event details, announcements, and educational resources. Its intuitive interface fosters community engagement and collaboration within the Institute. "
+              description="Welcome to the IOSD website, a hub for innovation and collaboration in the world of software development! This platform, powered by cutting-edge technologies like React.js, Mantine Hooks, CSS, and JavaScript, is designed to provide an interactive and engaging user experience."
               ghLink="https://github.com/Paramhans-Singh/IOSD"
               demoLink="https://iosd.vercel.app/"
             />
@@ -169,18 +180,7 @@ function Projects() {
               imgPath={film}
               isBlog={false}
               title="FilmSafari"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
-              ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
-              demoLink="https://my-tech-projects.vercel.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={cuckoo}
-              isBlog={false}
-              title="Cuckoo | DRDO Project"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="FilmSafari is a movie rendering website designed to provide users with an immersive cinematic experience. It serves as a platform for exploring and discovering movies, trailers, and reviews. Built with React Js, Tailwind CSS and JavaScript."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -191,7 +191,7 @@ function Projects() {
               imgPath={codeeditor}
               isBlog={false}
               title="Code Canvas"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="This project is a JavaScript-based code editor built with HTML, CSS, and JavaScript. It provides functionalities for writing and editing code, and syntax highlighting. Designed for simplicity and efficiency."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -202,7 +202,8 @@ function Projects() {
               imgPath={mart}
               isBlog={false}
               title="5 Mart"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="About
+              This project is an e-commerce website named 5Mart that offers a wide range of products for customers to browse and purchase. Built using HTML, CSS, and JavaScript, the site provides a user-friendly shopping experience."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -213,7 +214,7 @@ function Projects() {
               imgPath={foodie}
               isBlog={false}
               title="Foodie"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="This project is a food website named Foodie Food that showcases delicious recipes, food articles, and culinary tips. Built using HTML, CSS, JavaScript, and Tailwind CSS it provides an immersive experience for food enthusiasts."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
@@ -224,7 +225,7 @@ function Projects() {
               imgPath={gana}
               isBlog={false}
               title="Gaana Mart"
-              description=" Tech Project List - website showcases a comprehensive catalog of all my projects developed using various technology stacks. Built with React and styled with CSS, the website presents a clean and organized list of each project."
+              description="This project is a music streaming website named GanaMart inspired by platforms like Spotify. It allows users to browse, stream, and manage music. Built using HTML, CSS, and JavaScript, the site provides an intuitive and engaging music listening experience."
               ghLink="https://github.com/Paramhans-Singh/My-Tech-Projects"
               demoLink="https://my-tech-projects.vercel.app/"
             />
