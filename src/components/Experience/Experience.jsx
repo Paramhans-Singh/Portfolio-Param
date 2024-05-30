@@ -44,14 +44,12 @@ function Experience() {
                   <ul>
                     <li>
                       Pioneering cutting-edge solutions in dynamic cross-device
-                      interactions and collaborative applications, with a strong
-                      emphasis on bolstering cybersecurity measures.
+                      interactions and collaborative application.
                     </li>
                     <li>
                       Innovating secure gesture-based techniques for seamless
                       connecting and disconnecting of devices, as well as
-                      enabling the fluid movement of interactive objects across
-                      different platforms.
+                      enabling the fluid movement of interactive objects.
                     </li>
                   </ul>
                 </>
@@ -73,14 +71,12 @@ function Experience() {
                   <ul>
                     <li>
                       Spearheaded a groundbreaking research project within the
-                      NFDI4Datascience framework, utilizing known fraud cases
-                      for innovative few-shot learning applications.
+                      NFDI4Datascience framework.
                     </li>
                     <li>
                       Pioneered a prompt-based setup leveraging state-of-the-art
                       AI technologies, including Large Language Models and
-                      advanced Prompt Engineering techniques, to uncover and
-                      dismantle illicit networks in scientific publishing.
+                      advanced Prompt Engineering techniques.
                     </li>
                   </ul>
                 </>
@@ -102,14 +98,11 @@ function Experience() {
                   <ul>
                     <li>
                       Researching dynamic cross-device interactions and
-                      collaborative applications, focusing on Cybersecurity
-                      measures and incorporating MERN stack and Machine Learning
-                      technologies.
+                      collaborative applications, focusing on Cybersecurity.
                     </li>
                     <li>
                       Developing technologies for secure connecting and
-                      disconnecting of multiple devices with gestures, moving
-                      interactive objects across devices.
+                      disconnecting of multiple devices with gestures.
                     </li>
                   </ul>
                 </>
@@ -131,14 +124,12 @@ function Experience() {
                   <ul>
                     <li>
                       Establish a vibrant and inclusive community of students
-                      passionate about technology, organizing engaging events,
-                      and workshops to foster collaboration and mutual support
-                      among members.
+                      passionate about technology, organizing engaging events.
                     </li>
                     <li>
                       Work closely with educators and academic institutions to
                       develop and implement initiatives that integrate Microsoft
-                      technologies seamlessly into educational curricula.
+                      technologies.
                     </li>
                   </ul>
                 </>
@@ -165,8 +156,7 @@ function Experience() {
                     </li>
                     <li>
                       Successfully integrated back-end APIs to showcase data
-                      through custom components and Redux, enhancing the user
-                      experience and functionality of the application.
+                      through custom components and Redux.
                     </li>
                   </ul>
                 </>
@@ -194,12 +184,7 @@ function Experience() {
                     <li>
                       Deployed cutting-edge computer vision algorithms such as
                       Convolutional Neural Networks (CNNs) for accurate vehicle
-                      detection, tracking, and recognition.
-                    </li>
-                    <li>
-                      Emphasized swift real-time processing of camera footage
-                      for prompt identification and monitoring of stolen
-                      vehicles.
+                      detection, and recognition.
                     </li>
                   </ul>
                 </>
@@ -222,14 +207,12 @@ function Experience() {
                     <li>
                       Collaborated with the development team to enhance various
                       aspects of the project, resulting in a notable 25%
-                      decrease in the number of bugs and ensuring a more stable
-                      and reliable software product.
+                      decrease in the number of bugs.
                     </li>
                     <li>
                       Took charge of leading a team of 5 developers in the
                       creation of a full-stack web application, leading to a
-                      significant 40% increase in user engagement and
-                      satisfaction with the platform.
+                      significant 40% increase in user engagement.
                     </li>
                   </ul>
                 </>
@@ -258,10 +241,6 @@ function Experience() {
                       Organized over 15+ events and hackathons to enhance the
                       open-source community in college.
                     </li>
-                    <li>
-                      Provided support and guidance to budding developers in
-                      navigating the open-source ecosystem.
-                    </li>
                   </ul>
                 </>
               }
@@ -283,9 +262,7 @@ function Experience() {
                     <li>
                       Successfully spearheaded the implementation of Cuckoo
                       sandbox technology for malware analysis, leading to a
-                      significant 60% reduction in successful cyberattacks and
-                      enhancing the overall cybersecurity posture of the
-                      organization.
+                      significant 60% reduction in successful cyberattacks.
                     </li>
 
                     <li>
@@ -318,8 +295,7 @@ function Experience() {
                     </li>
                     <li>
                       Managed project timelines, resource allocation, and task
-                      delegation to ensure timely delivery of high-quality web
-                      solutions.
+                      delegation.
                     </li>
                   </ul>
                 </>
@@ -348,7 +324,7 @@ function Experience() {
                     <li>
                       Achieved a commendable ranking in the Top 20 of GSSOC,
                       showcasing my proficiency and dedication in open-source
-                      development and contributing positively to the community.
+                      development.
                     </li>
                   </ul>
                 </>
@@ -369,15 +345,13 @@ function Experience() {
                 <>
                   <ul>
                     <li>
-                      Serving as a Problem Setter at AlgoExpert, responsible for
-                      curating intellectually stimulating questions,
-                      contributing to 80% of the platform's question bank
-                      expansion.
+                      Serving as a Problem Setter at AlgoExpert, contributing to
+                      80% of the platform's question bank expansion.
                     </li>
                     <li>
                       Crafted over 300 new questions spanning various difficulty
                       levels and topics, representing a 50% increase in
-                      available content for contests and courses.
+                      available content for contests.
                     </li>
                   </ul>
                 </>
@@ -400,13 +374,11 @@ function Experience() {
                     <li>
                       Achieved a notable ranking in the Top 20 of SSOC,
                       demonstrating my proficiency and dedication in the field
-                      of open-source development and web development.
+                      of open-source development.
                     </li>
                     <li>
                       Received exciting swags and prizes from the esteemed Team
-                      SSOC as a token of appreciation for my hard work and
-                      commitment towards enhancing my skills in open-source and
-                      web development.
+                      SSOC as a token of appreciation for my hard work.
                     </li>
                   </ul>
                 </>
@@ -429,12 +401,11 @@ function Experience() {
                     <li>
                       Developed lesson plans and course modules to increase
                       student engagement and understanding of complex topics in
-                      the JAVA course on Data Structures and Algorithms.{" "}
+                      the JAVA course on Data Structures and Algorithms.
                     </li>
                     <li>
                       Collaborated with the course instructor to continuously
-                      evaluate and improve the curriculum based on student
-                      feedback and performance data.
+                      evaluate.
                     </li>
                   </ul>
                 </>
@@ -462,11 +433,6 @@ function Experience() {
                       Contributed to overall design decisions, accounting for
                       30% of the project's architectural coherence and
                       efficiency.
-                    </li>
-                    <li>
-                      Implemented robust error handling mechanisms within
-                      backend APIs, ensuring a 95% reduction in system downtime
-                      due to unforeseen errors.
                     </li>
                   </ul>
                 </>
